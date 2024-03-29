@@ -11,15 +11,18 @@ function Contact() {
     return(
     <>
         <div>
-            <h1>Contact Page</h1>
-            <p>This is the contact page</p>
+            <h1>
+                This is the Contact Page
+            </h1>   
         </div>
         <br/>
         <button onClick={handleClick}>
-            Go to Home page, click Here!
+            <h2>
+            Click Here! to go Home Page
+            </h2>
         </button>
-        </>
-    )    
+    </>
+ )    
 }
 export default Contact;
 

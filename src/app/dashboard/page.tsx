@@ -8,7 +8,9 @@ function Dashboard() {
       </div>
     <br/>
     <Link href='/'>
-    Go to Home page, Click Here!
+      <h2>
+       Click Here! to go Home Page
+      </h2>
     </Link> 
     </>
   )
