@@ -1,6 +1,6 @@
 "use client";
 import { log } from 'console';
-import link from 'next/link'
+import Link from 'next/link'
 import { useRouter } from 'next/navigation'
 function Contact() {
     const router = useRouter()
